@@ -1,4 +1,3 @@
-echo # Meu Portfifólio
 ### Olá 👋
 
 ###### Sobre mim
