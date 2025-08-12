@@ -1,8 +1,6 @@
 ### Olá 👋
 
 ###### Sobre mim
-Sou uma profissional com mais de 6 anos de experiência em atendimento técnico bilíngue, com foco em ambientes digitais e grandes plataformas como Meta (Facebook/Instagram) e Spotify. Ao longo da minha carreira, desenvolvi habilidades sólidas em resolução de problemas, categorização de dados, uso de tags para controle interno e melhoria contínua dos fluxos de atendimento.
-
 Atualmente, estou em transição para a área de Análise de Dados, área pela qual sou extremamente apaixonada. Tenho estudado ferramentas como Python, SQL, Power BI e Excel, e estou aplicando esses conhecimentos em projetos práticos durante meus cursos na EBAC como por exemplo o projeto de Tratamento e integração de dados no PySpark.
 
 Sou movida por dados, por entender padrões e encontrar soluções que otimizem processos. Tenho facilidade em lidar com ferramentas como Google Sheets, MySQL, Looker Studio e GitHub, e estou em busca de uma oportunidade para aprofundar minha experiência prática, contribuir com times de dados e continuar aprendendo.
@@ -14,7 +12,7 @@ Sou movida por dados, por entender padrões e encontrar soluções que otimizem 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stemntr&repo=atividade_tratamento_dados_spark&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stemntr&repo=Projeto-Python&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
